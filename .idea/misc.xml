@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sc-f-chapter1/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter2/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter4/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter5/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter6/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter7/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter8/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter10/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter12/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-first-sight/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-predicate/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-5-jdbc/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8_64" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
