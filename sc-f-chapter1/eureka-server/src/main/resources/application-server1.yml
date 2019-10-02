@@ -13,10 +13,14 @@ eureka:
   instance:
       hostname: server1
       prefer-ip-address: false
+      status-page-url:  https://${eureka.instance.host}/info
+      health-check-url: https://${eureka.instance.host}/health
 #      ip-address: 172.193.225.185
 #      instance-id: ${spring.cloud.client.ipAddress}:${server.port}
   client:
+      #表示是否从其他服务中心同步服务列表数据
       fetch-registry: true
+      #是否把自己作为服务注册到其他服务中心
       registerWithEureka: true
       service-url:
            defaultZone: http://server2:8762/eureka/
